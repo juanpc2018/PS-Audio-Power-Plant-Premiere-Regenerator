@@ -41,13 +41,14 @@ MultiWave also has 3-5% THD but only in the 3rd Harmonic,  </br>
 increasing power, without increasing Noise floor. </br>
 MultiWave is the Desired Way to Use the Power Plant Premiere </br>
 
-Pure Sine, No CleanWave, No MultiWave, has very low %THD, </br>
+### Pure Sine, No CleanWave, No MultiWave, has very low %THD, </br>
 The 8-Bit Scope i have cannot measure less than 0.6%  </br>
 givees around ~0.7% THD. </br>
 would require 12-Bit, 16-Bit 24-Bit ADC to know exactly.  </br>
 That wave is Desired for Electronic Laboratory Design & Repair. </br>
 ![Pure](https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0043.PNG) </br>
-![PureTHD](https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0049.PNG) </br>
+![PureFFT](https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0049.PNG) </br>
+![PureTHD](https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0022.PNG)</br>
 
 PS Audio converts 120 AC from the Wall to DC, back to 120vAC </br>
 using DDS, DA converter, generates a flawless AC signal. </br>
