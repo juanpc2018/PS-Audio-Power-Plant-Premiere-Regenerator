@@ -19,15 +19,15 @@ and other 2x transormers 10:1 connected out of Phase, </br>
 between Line and Neutral, and Neutral and Ground. </br>
 https://www.flickr.com/photos/50698989@N06/albums/72157709362098427 </br>
 Making Only Noise Visible. </br>
-https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0014.PNG
-https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0015.PNG
+(https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0014.PNG)
+(https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0015.PNG)
  
 The PS Audio PPP CleanWave, is a 5 second Degauser Wave, </br>
 a high frequency Sine wave injected to main 60Hz sine. </br>
-https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0044.PNG
-https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0025.PNG
-https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0046.PNG
-https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0048.PNG
+(https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0044.PNG)
+(https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0025.PNG)
+(https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0046.PNG)
+(https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0048.PNG)
 
 MultiWave is a 60Hz sine wave + 3rd Harmonic Sine Wave, </br>
 the purpose of MW is to make Sine Wave Fatter in the RMS region,  </br>
