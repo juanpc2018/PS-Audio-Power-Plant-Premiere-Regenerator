@@ -1,4 +1,4 @@
-# PS Audio Power Plant Premiere Regenerator
+# PS Audio Power Plant Premier Regenerator
 
 Measuring the Output of the PS Audio </br>
 
