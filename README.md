@@ -30,7 +30,7 @@ a high frequency Sine wave aprox 1.86KHz 31:1 injected to main 60Hz sine. </br>
 ![3](https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0046.PNG) </br>
 ![4](https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0048.PNG) </br>
 
-###MultiWave is a 60Hz sine wave + 3rd Harmonic Sine Wave, </br>
+### MultiWave is a 60Hz sine wave + 3rd Harmonic Sine Wave, </br>
 the purpose of MW is to make Sine Wave Fatter in the RMS region,  </br>
 why? because most equipments save manufacvturing $$ by reducing capacitors size </br>
 most dont have enough capacitance in the PSU. </br>
