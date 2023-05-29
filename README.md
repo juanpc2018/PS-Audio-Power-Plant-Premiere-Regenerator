@@ -18,7 +18,8 @@ The ONEAC its an Isolation Transformer, 100:1 </br>
 and other 2x transormers 10:1 connected out of Phase, </br>
 between Line and Neutral, and Neutral and Ground. </br>
 https://www.flickr.com/photos/50698989@N06/albums/72157709362098427 </br>
-Making Only Noise Visible. </br>
+Making Only Noise Visible, requires a 3 channels Scope to display all 3 signals in 1 screen shot. </br>
+i have taken individual measurement "same settings" for CM & NM. </br>
 Very Low Noise 200mV per Division at 120vAC = 0,16%. </br>
 ![CM](https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0014.PNG) </br>
 ![NM](https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0015.PNG) </br>
