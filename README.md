@@ -22,7 +22,7 @@ Making Only Noise Visible. </br>
 Very Low Noise 200mV per Division at 120vAC = 0,16%. </br>
 ![CM](https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0014.PNG) </br>
 ![NM](https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0015.PNG) </br>
- 
+![MWTHD](https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0016.PNG)</br> 
 ### The PS Audio PPP CleanWave, is a 5 second Degauser Wave, </br>
 a high frequency Sine wave aprox 1.86KHz 31:1 injected to main 60Hz sine. </br>
 ![1](https://github.com/juanpc2018/PS-Audio-Power-Plant-Premiere-Regenerator/blob/main/Oscilloscope/DS0044.PNG) </br>
