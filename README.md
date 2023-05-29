@@ -6,7 +6,7 @@ Digital Oscilloscope FFT can be deceiving, </br>
 because you can set FFT anyway, </br>
 to look good or to look bad, to show more noise than actually is, </br>
 show less noise than actually is, there is No baseline, </br>
-its a floating measurement. </br>
+its a floating measurement, FFT is for Finding Harmonics, Not measuring Noise floor.</br>
 
 The proper way to measure AC noise was invented decades ago, when scopes  </br>
 didint had FFT </br>
